@@ -1,11 +1,8 @@
 ## main
-<<<<<<< HEAD
 ## main edit
 ## braA
 ## braC
-
-=======
 ## braB
->>>>>>> braB
+## mainEdit in braA
 ## mainEdit in braB
 ## mainEdit in brac
